@@ -1,3 +1,3 @@
-# hello-world
+# ello-world
 
-Hi humans!
+Hi humans
